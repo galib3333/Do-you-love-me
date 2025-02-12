@@ -16,7 +16,6 @@ noBtn.addEventListener("mouseover", () => {
   noBtn.style.top = `${newY}px`;
 });
 
-noBtn.addEventListener("mouseover", moveNoButton);
 // yes button functionality
 
 yesBtn.addEventListener("click", () => {
