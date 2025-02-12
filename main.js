@@ -17,7 +17,6 @@ noBtn.addEventListener("mouseover", () => {
 });
 
 noBtn.addEventListener("mouseover", moveNoButton);
-noBtn.addEventListener("touchstart", moveNoButton);
 // yes button functionality
 
 yesBtn.addEventListener("click", () => {
